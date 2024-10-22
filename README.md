@@ -15,4 +15,3 @@ Kiki Yufeng Liu's personal webpage.
 
 ## My Complete CV
 - to be added
-![image](https://github.com/user-attachments/assets/a3169fee-d43a-48ed-879e-53d0baf90bcb)
