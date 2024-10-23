@@ -10,6 +10,7 @@ Yufeng Liu's personal webpage.
 - [Google Scholar](https://scholar.google.com/citations?user=pRpljd4AAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0000-0002-3423-664X)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57578141100)
+- [LinkedIn](https://www.linkedin.com/in/yufeng-liu-851335284/)
 - [X handle](https://x.com/_KikiLiu)
 - Email: yufengliu@lancaster.ac.uk
 
