@@ -12,6 +12,7 @@ Yufeng Liu's personal webpage.
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57578141100)
 - [LinkedIn](https://www.linkedin.com/in/yufeng-liu-851335284/)
 - [X handle](https://x.com/_KikiLiu)
+- [Bluesky handle] (https://bsky.app/profile/kikiliu.bsky.social)
 - Email: yufengliu@lancaster.ac.uk
 
 ## My Complete CV
