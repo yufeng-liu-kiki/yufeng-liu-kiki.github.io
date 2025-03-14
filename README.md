@@ -4,6 +4,7 @@ Yufeng Liu's personal webpage.
 ## I work closely with Professor [Elena Semino](https://www.lancaster.ac.uk/linguistics/about/people/elena-semino), Professor [Paul Rayson](https://www.lancaster.ac.uk/security-lancaster/people/paul-rayson) and Professor [Sheila Payne](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/sheila-payne) on the [4D PICTURE](https://4dpicture.eu/) project, with an aim to develop a conversation tool for cancer patients, their significant others, their clinicians and citizens based on the analysis of patient experience data and citizen science methods.
 
 ## My research interests focus on using computer-aided methods—such as corpus analysis, data analytics, and natural language processing (NLP)—alongside qualitative methods—including (critical) discourse analysis and narrative analysis—to study metaphors as linguistic, discourse, and communication phenomena. 
+
 ## I am particularly interested in how people from different cultures and communities use figurative language to express their feelings, beliefs, experiences, and identities, with a focus on comparisons between Chinese, British, and American cultures. Currewntly, I primarily work on digital health communication acorss cultures and contexts. I also touch upon multimodality and digital journalistic discourses.
 
 ## Where to find me 
