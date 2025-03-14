@@ -5,7 +5,7 @@ Yufeng Liu's personal webpage.
 
 ## My research interests focus on using computer-aided methods—such as corpus analysis, data analytics, and natural language processing (NLP)—alongside qualitative methods—including (critical) discourse analysis and narrative analysis—to study metaphors as linguistic, discourse, and communication phenomena. 
 
-## I am particularly interested in how people from different cultures and communities use figurative language to express their feelings, beliefs, experiences, and identities, with a focus on comparisons between Chinese, British, and American cultures. Currewntly, I primarily work on digital health communication acorss cultures and contexts. I also touch upon multimodality and digital journalistic discourses.
+## I am particularly interested in how people from different cultures and communities use figurative language to express their feelings, beliefs, experiences, and identities, with a focus on comparisons between Chinese, British, and American cultures. Currently, I primarily work on digital health communication across cultures and contexts. I also touch upon multimodality and digital journalistic discourses.
 
 ## Where to find me 
 - [Lancaster University Webpage](https://www.lancaster.ac.uk/linguistics/about/people/yufeng-liu)
