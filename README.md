@@ -7,7 +7,7 @@ Yufeng Liu's personal webpage.
 
 ## I am particularly interested in how people from different cultures and communities use figurative language to express their feelings, beliefs, experiences, and identities, with a focus on comparisons between Chinese, British, and American cultures. Currently, I primarily work on digital health communication across cultures and contexts. I also touch upon multimodality and digital journalistic discourses.
 
-## Where to find me 
+## My Online Profiles & Contact
 - [Lancaster University Webpage](https://www.lancaster.ac.uk/linguistics/about/people/yufeng-liu)
 - [Google Scholar](https://scholar.google.com/citations?user=pRpljd4AAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0000-0002-3423-664X)
