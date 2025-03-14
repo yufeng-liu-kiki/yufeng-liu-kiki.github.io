@@ -1,9 +1,9 @@
 # yufeng-liu-kiki.github.io
 Yufeng Liu's personal webpage.
-## Hello! I am currently a postdoctoral senior research associate at the ESRC Centre for Corpus Approaches to Social Science ([CASS](https://cass.lancs.ac.uk/)) within the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at Lancaster University, the UK.
+## Hello! I am currently a senior research associate at the ESRC Centre for Corpus Approaches to Social Science ([CASS](https://cass.lancs.ac.uk/)) within the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at Lancaster University, UK.
 ## I work closely with Professor [Elena Semino](https://www.lancaster.ac.uk/linguistics/about/people/elena-semino), Professor [Paul Rayson](https://www.lancaster.ac.uk/security-lancaster/people/paul-rayson) and Professor [Sheila Payne](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/sheila-payne) on the [4D PICTURE](https://4dpicture.eu/) project, with an aim to develop a conversation tool for cancer patients, their significant others, their clinicians and citizens based on the analysis of patient experience data and citizen science methods.
 
-## My research interests focus on using computer-aided methods—such as corpus analysis, data analytics, and natural language processing (NLP)—alongside qualitative methods—including (critical) discourse analysis and narrative analysis—to study metaphors as linguistic, discourse, and communication phenomena. 
+## My research interests focus on combining computer-aided methods—such as corpus analysis, data analytics, and natural language processing (NLP)—with qualitative methods—including (critical) discourse analysis and narrative analysis—to study metaphors as linguistic, discourse, and communication phenomena.
 
 ## I am particularly interested in how people from different cultures and communities use figurative language to express their feelings, beliefs, experiences, and identities, with a focus on comparisons between Chinese, British, and American cultures. Currently, I primarily work on digital health communication across cultures and contexts. I also touch upon multimodality and digital journalistic discourses.
 
